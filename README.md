@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AmanVerma
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Contact:  
+      LinkendIN: linkedin.com/in/aman-verma-03b955274
+      E-mail: aman2ka19@gmail.com
+        
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
