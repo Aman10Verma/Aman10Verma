@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AmanVerma
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Data Engineering
 - Contact:  
-      LinkendIN: linkedin.com/in/aman-verma-03b955274 
+      LinkendIN: linkedin.com/in/aman1810 
       E-mail: aman2ka19@gmail.com
         
 - 😄 Pronouns: He
